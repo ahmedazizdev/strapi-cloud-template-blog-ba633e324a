@@ -41,7 +41,7 @@
     "categories": {
       "type": "relation",
       "relation": "manyToMany",
-      "target": "api::category.category",
+      "target": "api::portfolio-category.portfolio-category",
       "inversedBy": "case_study_items"
     }
   }
